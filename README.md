@@ -1,8 +1,7 @@
- * @maarten-boot
 Doing computers since the end on the 1980's.
 
 Doing currently mostly python, and bash, 
-but have done golang, perl, C and naturally some variants of Basic, 
+but have done golang, perl, php, C and naturally some variants of Basic, 
 in the early days of Junior and Acorn Atom even 6502 asm.
 
 <!---
